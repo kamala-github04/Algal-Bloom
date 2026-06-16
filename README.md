@@ -61,15 +61,15 @@ Streamlit Dashboard
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### ThingSpeak Monitoring
 
-![ThingSpeak](screenshots/thingspeak.png)
+![ThingSpeak](screenshots/Thingspeak.png)
 
 ### Model Evaluation
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/Confusion_matrix.png)
 
 ---
 
