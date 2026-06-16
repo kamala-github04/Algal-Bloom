@@ -7,8 +7,8 @@ import joblib
 # CONFIGURATION
 # ==========================
 
-CHANNEL_ID = "3409086"
-READ_API_KEY = "TNGGMXFGNHARO1NY"  # Leave blank if channel is public
+CHANNEL_ID = "YOUR_CHANNEL_ID"
+READ_API_KEY = "YOUR_READ_API_KEY"
 
 model = joblib.load("hab_model.pkl")
 
