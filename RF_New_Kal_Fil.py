@@ -281,3 +281,9 @@ print("\n==========================================")
 print("STEP 12: FINAL FILTERED DATA SAVED")
 print("==========================================")
 print("\nSaved file: Filtered_HAB_Output.csv")
+
+import joblib
+
+joblib.dump(model, "hab_model.pkl")
+
+print("Model saved successfully!")
